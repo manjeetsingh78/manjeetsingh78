@@ -41,13 +41,14 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjeetsingh78&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetsingh78&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manjeetsingh78&show_icons=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manjeetsingh78&layout=compact)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=manjeetsingh78&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=manjeetsingh78)
 
 ---
 
