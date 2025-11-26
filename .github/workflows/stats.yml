@@ -1,42 +1,34 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every day at midnight
   schedule:
-    - cron: "0 0 * * *"
-  
-  # Allow manual trigger
+    - cron: "0 0 * * *"   # Daily
   workflow_dispatch:
-  
-  # Run on every push to main
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
-    permissions:
-      contents: write
-
     steps:
-      # Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generate the snake animation
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # ✅ Stable snake generator (no canvas, no GIF, no crash)
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: manjeetsingh78
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake-dark.svg
 
-      # Push the generated files to the output branch
       - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
