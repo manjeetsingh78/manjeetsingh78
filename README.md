@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Manjeet Singh</h1>
-<h3 align="center">Aspiring DevOps & Backend Developer | Open Source Enthusiast</h3>
+<h3 align="center">DevOps & Backend Developer | Cloud & Open Source Enthusiast</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Computer Science Student  
-- 💻 Backend Developer (Node.js)  
-- ☁️ DevOps & Cloud Enthusiast  
-- 🔥 Passionate about Open Source Contributions  
-- 🚀 Actively learning **AWS, Docker, Kubernetes & Terraform**
+## 👨‍💻 Professional Summary
+Motivated Computer Science student and aspiring **DevOps & Backend Engineer** with hands-on experience in:
+- Backend development using **Node.js**
+- Cloud infrastructure on **AWS**
+- Containerization & orchestration with **Docker & Kubernetes**
+- Infrastructure as Code using **Terraform**
+
+Passionate about building scalable systems, automating workflows, and contributing to open source.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Languages
+### 💻 Programming Languages
 - C++
 - Java
 - Python
@@ -22,13 +24,13 @@
 
 ### ⚙️ Backend & DevOps
 - Node.js
-- Microservices
+- REST APIs & Microservices
 - Docker
 - Kubernetes
 - Terraform
+- AWS (EC2, S3, IAM, VPC – Learning)
 - Git & GitHub
-- GitLab
-- AWS
+- GitLab CI/CD
 
 ---
 
@@ -40,15 +42,30 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manjeetsingh78&show_icons=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manjeetsingh78&layout=compact)
+## 📌 Key Strengths
+- Strong problem-solving & debugging skills  
+- CI/CD & automation mindset  
+- Cloud & Infrastructure fundamentals  
+- Team collaboration using Git & Agile practices  
+- Continuous learner with DevOps focus  
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=manjeetsingh78)
+## 📂 Featured Work (Add as you grow)
+- ✅ Backend APIs (Node.js)
+- ✅ Dockerized applications
+- ✅ Terraform AWS labs
+- ✅ CI/CD pipelines (GitHub Actions / GitLab)
+
+_(You can link projects here as you build them.)_
+
+---
+
+## 🎯 Current Learning
+- Advanced AWS Networking & Security
+- Kubernetes Production Deployments
+- CI/CD with GitHub Actions
+- System Design for Scalable Applications
 
 ---
 
@@ -58,4 +75,4 @@
 
 ---
 
-⭐ _Keep learning, keep building, and keep contributing to Open Source!_
+⭐ *Consistent effort beats talent. Let's build scalable systems.*
