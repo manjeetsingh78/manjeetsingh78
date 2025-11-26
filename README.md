@@ -42,6 +42,11 @@ Passionate about building scalable systems, automating workflows, and contributi
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation dark](https://raw.githubusercontent.com/manjeetsingh78/manjeetsingh78/output/github-contribution-grid-snake-dark.svg)
+
+
 ## 📊 GitHub Stats (Self-Hosted)
 ![GitHub Metrics](https://raw.githubusercontent.com/manjeetsingh78/manjeetsingh78/main/github-metrics.svg)
 
