@@ -28,7 +28,7 @@ Passionate about building scalable systems, automating workflows, and contributi
 - Docker
 - Kubernetes
 - Terraform
-- AWS (EC2, S3, IAM, VPC – Learning)
+- AWS (EC2, S3, IAM, VPC)
 - Git & GitHub
 - GitLab CI/CD
 
@@ -42,37 +42,57 @@ Passionate about building scalable systems, automating workflows, and contributi
 
 ---
 
-## 📌 Key Strengths
-- Strong problem-solving & debugging skills  
-- CI/CD & automation mindset  
-- Cloud & Infrastructure fundamentals  
-- Team collaboration using Git & Agile practices  
-- Continuous learner with DevOps focus  
+## 📊 GitHub Stats (Self-Hosted)
+![GitHub Metrics](https://raw.githubusercontent.com/manjeetsingh78/manjeetsingh78/main/github-metrics.svg)
 
 ---
 
-## 📂 Featured Work (Add as you grow)
-- ✅ Backend APIs (Node.js)
-- ✅ Dockerized applications
-- ✅ Terraform AWS labs
-- ✅ CI/CD pipelines (GitHub Actions / GitLab)
-
-_(You can link projects here as you build them.)_
+## 📜 Certifications
+- ✅ Oracle Cloud Infrastructure Foundations – Oracle  
+- ✅ AWS Cloud Practitioner – *(In Progress)*  
+- ✅ Docker & Kubernetes – *(Hands-on Labs)*  
+- ✅ Terraform for Infrastructure as Code – *(Practical Training)*  
 
 ---
 
-## 🎯 Current Learning
-- Advanced AWS Networking & Security
-- Kubernetes Production Deployments
-- CI/CD with GitHub Actions
-- System Design for Scalable Applications
+## 🧰 DevOps Portfolio
+
+### 🚀 CI/CD & Automation
+- GitHub Actions pipelines  
+- GitLab CI/CD  
+- Automated builds & deployments  
+
+### ☁️ Cloud & Infrastructure
+- AWS EC2, S3, IAM, VPC  
+- Terraform Infrastructure as Code  
+- Secure deployments  
+
+### 🐳 Containers & Orchestration
+- Dockerized Node.js apps  
+- Kubernetes deployments  
+- Helm (Learning)
+
+### 🔐 Monitoring & Security (Learning)
+- Prometheus & Grafana  
+- Cloud security best practices  
+
+---
+
+## 📂 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| Learning Platform | Node.js, MongoDB | Backend API for student learning |
+| CI/CD Pipeline | GitHub Actions | Automated build & deploy |
+| Terraform AWS Infra | Terraform, AWS | EC2 + VPC setup |
+| Dockerized App | Docker | Containerized Node.js API |
 
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/manjeet322
-- 💻 GitHub: https://github.com/manjeetsingh78
+- 🔗 LinkedIn: https://www.linkedin.com/in/manjeet322  
+- 💻 GitHub: https://github.com/manjeetsingh78  
 
 ---
 
-⭐ *Consistent effort beats talent. Let's build scalable systems.*
+⭐ *Consistent effort beats talent. Let’s build scalable systems.*
