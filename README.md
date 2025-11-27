@@ -1,5 +1,7 @@
 <div align="center">
-  [<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manjeet+Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN+Stack+Developer+%7C+DevOps+Engineer&descAlignY=51&descAlign=62" alt="Header" />
+  [<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manjeet+Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN+Stack+Developer+%7C+DevOps+Engineer&descAlignY=51&descAlign=62" alt="Header" />[(http://googleusercontent.com/image_generation_content/3
+
+)
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Apps;Automating+with+DevOps+Pipelines;Orchestrating+Kubernetes+Clusters;Java+%26+Cloud+Native+Enthusiast" alt="Typing SVG" />
