@@ -1,103 +1,73 @@
-<h1 align="center">Hi 👋, I'm Manjeet Singh</h1>
-<h3 align="center">DevOps & Mern Stack Developer | Cloud & Open Source Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Manjeet+Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=MERN+Stack+Developer+%7C+DevOps+Engineer&descAlignY=51&descAlign=62" alt="Header" />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Apps;Automating+with+DevOps+Pipelines;Orchestrating+Kubernetes+Clusters;Java+%26+Cloud+Native+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=manjeetsingh78&theme=flat&no-frame=false&no-bg=true&margin-w=4" />
+  </a>
+</div>
 
 ---
 
-## 👨‍💻 Technical Summary
-Motivated Computer Science student and aspiring **DevOps & Backend Engineer** with hands-on experience in:
-- Backend development using **Node.js**
-- Cloud infrastructure on **AWS**
-- Containerization & orchestration with **Docker & Kubernetes**
-- Infrastructure as Code using **Terraform**
-
-Passionate about building scalable systems, automating workflows, and contributing to open source.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-- C++
-- Java
-- Python
-- JavaScript
-
-### ⚙️ Backend & DevOps
-- Node.js
-- REST APIs & Microservices
-- Docker
-- Kubernetes
-- Terraform
-- AWS (EC2, S3, IAM, VPC)
-- Git & GitHub
-- GitLab CI/CD
-
----
-
-## 🏆 GitHub Achievements
-- 🦈 **Pull Shark**
-- ⚡ **Quickdraw**
-- 🚀 **YOLO**
-- 🧠 **Galaxy Brain**
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation dark](https://raw.githubusercontent.com/manjeetsingh78/manjeetsingh78/output/github-contribution-grid-snake-dark.svg)
-
-
-## 📊 GitHub Stats
-![GitHub Metrics](https://raw.githubusercontent.com/manjeetsingh78/manjeetsingh78/main/github-metrics.svg)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am a <b>Full Stack Developer</b> and <b>DevOps Engineer</b> focused on creating seamless development workflows and robust web architecture. I specialize in the <b>MERN stack</b> for application logic and <b>OCI/AWS</b> for cloud infrastructure.
+      </p>
+      <ul>
+        <li>🔭 Working on: <b>Microservices & CI/CD Pipelines</b></li>
+        <li>🌱 Learning: <b>Advanced OCI Architecture & Terraform</b></li>
+        <li>💬 Ask me about: <b>React, Node.js, Java, K8s, Docker</b></li>
+        <li>📫 Email: <a href="mailto:rambaghel741791@gmail.com">rambaghel741791@gmail.com</a></li>
+      </ul>
+      <br />
+      <h3>📫 Connect with me</h3>
+      <div align="left">
+        <a href="mailto:rambaghel741791@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛠️ Tech Stack</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css,redux,nextjs" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,spring" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,jenkins,ansible,terraform,aws,linux,grafana" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📜 Certifications
-- ✅ Oracle Cloud Infrastructure Foundations – Oracle  
-- ✅ AWS Cloud Practitioner – *(In Progress)*  
-- ✅ Docker & Kubernetes – *(Hands-on Labs)*  
-- ✅ Terraform for Infrastructure as Code – *(Practical Training)*  
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=manjeetsingh78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetsingh78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
+</div>
 
----
+<br>
 
-## 🧰 DevOps Portfolio
+<div align="center">
+  <img src="https://github.com/manjeetsingh78/manjeetsingh78/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
-### 🚀 CI/CD & Automation
-- GitHub Actions pipelines  
-- GitLab CI/CD  
-- Automated builds & deployments  
+<br>
 
-### ☁️ Cloud & Infrastructure
-- AWS EC2, S3, IAM, VPC  
-- Terraform Infrastructure as Code  
-- Secure deployments  
-
-### 🐳 Containers & Orchestration
-- Dockerized Node.js apps  
-- Kubernetes deployments  
-- Helm (Learning)
-
-### 🔐 Monitoring & Security (Learning)
-- Prometheus & Grafana  
-- Cloud security best practices  
-
----
-
-## 📂 Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| Learning Platform | Node.js, MongoDB | Backend API for student learning |
-| CI/CD Pipeline | GitHub Actions | Automated build & deploy |
-| Terraform AWS Infra | Terraform, AWS | EC2 + VPC setup |
-| Dockerized App | Docker | Containerized Node.js API |
-
----
-
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/manjeet322  
-- 💻 GitHub: https://github.com/manjeetsingh78  
-
----
-
-⭐ *Consistent effort beats talent. Let’s build scalable systems.*
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjeetsingh78&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
