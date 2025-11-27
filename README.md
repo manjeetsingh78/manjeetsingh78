@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/manjeetsingh78/manjeetsingh78/blob/main/header.png?raw=true" width="100%" alt="Manjeet Singh Banner" />
+  <div align="center">
+  <img src="./Header.svg" width="100%" alt="Manjeet Singh Advanced Banner" />
+</div>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Apps;Automating+with+DevOps+Pipelines;Orchestrating+Kubernetes+Clusters;Java+%26+Cloud+Native+Enthusiast" alt="Typing SVG" />
