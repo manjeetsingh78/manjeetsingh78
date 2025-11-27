@@ -69,5 +69,10 @@
 <br>
 
 <div align="center">
+  <h3>Profile Views</h3>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=manjeetsingh78.manjeetsingh78" alt="visitor badge"/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=manjeetsingh78&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
