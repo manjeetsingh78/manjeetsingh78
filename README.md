@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manjeet Singh</h1>
-<h3 align="center">DevOps & Backend Developer | Cloud & Open Source Enthusiast</h3>
+<h3 align="center">DevOps & Mern Stack Developer | Cloud & Open Source Enthusiast</h3>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Technical Summary
 Motivated Computer Science student and aspiring **DevOps & Backend Engineer** with hands-on experience in:
 - Backend development using **Node.js**
 - Cloud infrastructure on **AWS**
