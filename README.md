@@ -62,7 +62,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=manjeetsingh78.manjeetsingh78" alt="visitor badge"/>
 </div>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=manjeetsingh78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="170" alt="stats graph" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjeetsingh78&show_icons=true&theme=tokyonight&hide_border=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetsingh78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
 </div>
 
