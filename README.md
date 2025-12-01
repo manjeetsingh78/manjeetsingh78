@@ -62,7 +62,23 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=manjeetsingh78.manjeetsingh78" alt="visitor badge"/>
 </div>
   <br>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjeetsingh78&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  <!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manjeetsingh78&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manjeetsingh78&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manjeetsingh78&theme=tokyonight&hide_border=true" />
+</p>
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetsingh78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
 </div>
 
