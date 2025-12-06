@@ -62,17 +62,14 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=manjeetsingh78.manjeetsingh78" />
   <br><br>
 
-  <!-- GitHub Stats -->
   <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manjeetsingh78&show_icons=true&theme=tokyonight&hide_border=true" />
   </p>
 
-  <!-- Top Languages -->
   <p align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manjeetsingh78&layout=compact&theme=tokyonight&hide_border=true" />
   </p>
 
-  <!-- GitHub Streak (already working ✅) -->
   <p align="center">
     <img src="https://streak-stats.demolab.com?user=manjeetsingh78&theme=tokyonight&hide_border=true" />
   </p>
