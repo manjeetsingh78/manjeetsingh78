@@ -74,15 +74,9 @@
     <img src="https://streak-stats.demolab.com?user=manjeetsingh78&theme=tokyonight&hide_border=true" />
   </p>
 </div>
-
-
 <br>
 <br>
-
 <div align="center">
   <img src="https://github.com/manjeetsingh78/manjeetsingh78/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
-
 <br>
-
-
